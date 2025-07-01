@@ -1,7 +1,7 @@
 # 📊 Interactive Sales & Profit Dashboard – Tableau
 
 ## 📝 Task Overview
-This project was focused on building an **interactive business dashboard** using **Tableau**. The goal was to design a visual interface that allows stakeholders to monitor key business metrics, spot trends, and make informed decisions. 
+This project was focused on building an **Interactive Business Dashboard** using **Tableau**. The goal was to design a visual interface that allows stakeholders to monitor key business metrics, spot trends, and make informed decisions. 
 
 ---
 
